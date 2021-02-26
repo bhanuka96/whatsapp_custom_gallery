@@ -1,0 +1,73 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 50,
+  "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg?style=flat-square&logo=github)](#contributors)",
+  "commit": false,
+  "contributors": [
+    {
+      "login": "AlexV525",
+      "name": "Alex Li",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/15884415?v=4",
+      "profile": "https://blog.alexv525.com",
+      "contributions": [
+        "code",
+        "design",
+        "doc",
+        "example",
+        "ideas",
+        "maintenance",
+        "question",
+        "review"
+      ]
+    },
+    {
+      "login": "CaiJingLong",
+      "name": "Caijinglong",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/14145407?v=4",
+      "profile": "https://www.kikt.top",
+      "contributions": [
+        "example",
+        "ideas"
+      ]
+    },
+    {
+      "login": "SchnMar",
+      "name": "Marcel Schneider",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/12902321?v=4",
+      "profile": "https://github.com/SchnMar",
+      "contributions": [
+        "bug",
+        "code",
+        "ideas"
+      ]
+    },
+    {
+      "login": "ganlanshu0211",
+      "name": "ganlanshu0211",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/9670379?v=4",
+      "profile": "https://github.com/ganlanshu0211",
+      "contributions": [
+        "bug",
+        "ideas"
+      ]
+    },
+    {
+      "login": "JasonHezz",
+      "name": "JasonHezz",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/15358765?v=4",
+      "profile": "https://github.com/JasonHezz",
+      "contributions": [
+        "bug",
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "flutter_wechat_assets_picker",
+  "projectOwner": "fluttercandies",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
